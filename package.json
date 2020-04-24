@@ -1,0 +1,27 @@
+{
+  "name": "feed-alert",
+  "version": "1.0.0",
+  "description": "",
+  "main": "alert.js",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "minimist": "^1.2.5",
+    "nodemailer": "^6.4.6",
+    "nodemon": "^2.0.2",
+    "pg": "^7.18.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/robertinit/mirth-feed-alert.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/robertinit/mirth-feed-alert/issues"
+  },
+  "homepage": "https://github.com/robertinit/mirth-feed-alert#readme"
+}
