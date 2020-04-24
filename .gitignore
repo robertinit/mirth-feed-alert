@@ -1,0 +1,5 @@
+.env
+/node_modules
+alert.log
+testing.js
+app.js.old
