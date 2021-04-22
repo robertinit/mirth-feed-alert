@@ -3,3 +3,11 @@
 alert.log
 testing.js
 app.js.old
+*.ENV
+/node_modules
+*.cer
+*.pem
+*/cert
+*/logs
+*/log
+*.git
