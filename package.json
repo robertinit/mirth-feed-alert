@@ -5,7 +5,7 @@
   "main": "alert.js",
   "dependencies": {
     "dotenv": "^8.2.0",
-    "minimist": "^1.2.5",
+    "minimist": "^1.2.6",
     "nodemailer": "^6.4.6",
     "nodemon": "^2.0.2",
     "pg": "^7.18.2"
